@@ -1,18 +1,24 @@
-Student Database Management System
-This is a simple C program for managing student records. It allows users to add, display, search, and delete student details using a command-line interface.
+# Student Database Management System
 
-Features
-Add Student: Store student roll number, name, and marks.
+This is a simple **C program** for managing student records. It allows users to **add, display, search, and delete student details** using a command-line interface.
 
-Display Students: View all stored student records.
+## Features
 
-Search Student: Find a student by roll number.
+- **Add Student**: Store student roll number, name, and marks.
+- **Display Students**: View all stored student records.
+- **Search Student**: Find a student by roll number.
+- **Delete Student**: Remove a student record.
+- **Exit**: Close the application.
 
-Delete Student: Remove a student record.
+## Requirements
 
-Exit: Close the application.
+- **C Compiler** (GCC, Clang, or MSVC)
+- Any terminal or command prompt
 
-Requirements
-C Compiler (GCC, Clang, or MSVC)
+## Installation & Usage
 
-Any terminal or command prompt
+1. **Clone the repository** (or copy the code into a `.c` file):
+
+   ```sh
+   git clone https://github.com/yourusername/student-database.git
+   cd student-database
